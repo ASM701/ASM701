@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulmohsen Saad Almunayes
 - 👀 I’m interested in Cybersecurity, Machine Learning, Computer Architecture, and I'm experienced in multiple programming languages.
-- 🌱 I’m currently studying to obtain my Bachelor's Degree in Comuter Engineering.
+- 🌱 I’m currently studying to obtain my Bachelor's Degree in Computer Engineering.
 - 💞️ I’m looking to collaborate on exciting new projects that can benefit me on the path of my career and that can benefit people that surround me.
 <!---
 ASM701/ASM701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
